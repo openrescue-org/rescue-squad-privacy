@@ -1,7 +1,7 @@
 # Rescue Squad beta: privacy statement
 
 *Applies to: the Rescue Squad **demonstration** build distributed through Apple TestFlight. Last updated:
-[DATE].*
+2026-10-09.*
 
 **This beta is a demonstration. It is not an emergency service and cannot summon help.** In an emergency, call
 your local emergency number.

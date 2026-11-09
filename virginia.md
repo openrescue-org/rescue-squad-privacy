@@ -19,6 +19,9 @@ Last updated: 2026-11-08.*
 - **A push token:** a code from Apple or Google that lets the server wake your phone when a request is offered to you.
 - **Study records:** answers to questionnaires you choose to fill in, your consent choices, and your enrolment in the
   test.
+- **Practice triage records:** for each practice request, what the server's automatic triage would have advised: an
+  alert level, the kinds of responder and the actions it would suggest (including "call 911"), and its reasons. It
+  acts on nothing, calls no one and is shown to no tester; the test team reads it to check the triage.
 - **An access log:** who on the test team opened which record, and when.
 
 ## Who sees it
@@ -51,7 +54,7 @@ Last updated: 2026-11-08.*
   Voice notes are deleted after **14 days**. The access log is kept **30 days**.
 - Encrypted backups on the server are deleted after **14 days**.
 - **30 days after a practice request ends, your name and its exact location are removed from it.** Questionnaire
-  answers, consent choices and records that a request was offered to your phone are kept, without your name once you
+  answers, consent choices, practice triage records and records that a request was offered to your phone are kept, without your name once you
   delete your account, until the server is erased.
 - **When US testing ends, the test server and its backups are erased.**
 
